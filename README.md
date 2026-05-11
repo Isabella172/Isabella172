@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering, React, Mobile Application**
 
-- 💬 Ask me about **Java, Javascript, HTML and CSS**
+- 💬 Ask me about **Python, Javascript, Django, HTML and CSS**
 
 - 📫 How to reach me **berlah87009@gmail.com**
 
